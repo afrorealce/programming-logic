@@ -13,6 +13,7 @@ This repository documents my learning journey in programming logic and algorithm
 - Visualg
 - Git
 - GitHub
+- Scratch 3
 
 ## Repository Structure
 
