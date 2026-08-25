@@ -4,9 +4,16 @@ This repository documents my learning journey in programming logic and algorithm
 
 ## Topics Covered
 
-- Variables and integer data types
+- Variables and data types
 - User input and output
 - Arithmetic operations
+- Relational and logical operators
+- Simple conditional structures
+- Compound conditional structures
+- Nested conditional structures
+- Multiple-choice structures
+- Percentage calculations
+- Numeric output formatting
 
 ## Tools
 
@@ -17,9 +24,16 @@ This repository documents my learning journey in programming logic and algorithm
 
 ## Repository Structure
 
-- `01-fundamentals`: Beginner exercises covering variables, input, output, and basic calculations.
+- `01-fundamentals`: Beginner exercises covering variables, input, output, calculations, conditions, and multiple-choice structures.
 
 ## Progress
 
-- [x] Sum two numbers
+- [x] Variables and data types
+- [x] User input and output
+- [x] Arithmetic operations
+- [x] Relational and logical operators
+- [x] Simple conditional structures
+- [x] Compound conditional structures
+- [x] Nested conditional structures
+- [x] Multiple-choice structures
 - [ ] Complete the fundamentals module
